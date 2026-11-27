@@ -1,0 +1,128 @@
+{
+  "title": "Schedule",
+  "series": [
+    {
+      "name": "Colorado Karting Tour",
+      "events": [
+        {
+          "name": "Round #1",
+          "date": "April 5-6",
+          "venue": "IMI Motorsports Complex",
+          "location": "Dacono, CO"
+        },
+        {
+          "name": "Round #2",
+          "date": "May 10-11",
+          "venue": "IMI Motorsports Complex",
+          "location": "Dacono, CO"
+        },
+        {
+          "name": "Round #3-4",
+          "date": "June 6-8",
+          "venue": "Grand Junction Motor Speedway",
+          "location": "Grand Junction, CO"
+        },
+        {
+          "name": "Round #5-6",
+          "date": "July 4-6",
+          "venue": "Pikes Peak International Raceway",
+          "location": "Fountain, CO"
+        },
+        {
+          "name": "Round #7",
+          "date": "August 8-10",
+          "venue": "Amarillo Kart Complex",
+          "location": "Amarillo, CO"
+        },
+        {
+          "name": "Round #8",
+          "date": "September 5-7",
+          "venue": "SBR Motorsports Park",
+          "location": "Calhan, CO"
+        }
+      ]
+    },
+    {
+      "name": "Porsche Colorado Springs Karting Championship",
+      "events": [
+        {
+          "name": "Round #1",
+          "date": "April 12",
+          "venue": "Colorado Karting Circuit",
+          "location": "Centennial, CO"
+        },
+        {
+          "name": "Round #2",
+          "date": "May 17",
+          "venue": "Colorado Karting Circuit",
+          "location": "Centennial, CO"
+        },
+        {
+          "name": "Round #3",
+          "date": "June 28",
+          "venue": "Colorado Karting Circuit",
+          "location": "Centennial, CO"
+        },
+        {
+          "name": "Round #4",
+          "date": "July 19",
+          "venue": "Colorado Karting Circuit",
+          "location": "Centennial, CO"
+        },
+        {
+          "name": "Round #5",
+          "date": "August 1-2",
+          "venue": "Grand Junction Motor Speedway",
+          "location": "Grand Junction, CO"
+        },
+        {
+          "name": "Round #6",
+          "date": "August 23",
+          "venue": "Colorado Karting Circuit",
+          "location": "Centennial, CO"
+        },
+        {
+          "name": "Round #7",
+          "date": "September 13",
+          "venue": "Colorado Karting Circuit",
+          "location": "Centennial, CO"
+        },
+        {
+          "name": "Round #8-9",
+          "date": "October 4-5",
+          "venue": "Colorado Karting Circuit",
+          "location": "Centennial, CO"
+        }
+      ]
+    },
+    {
+      "name": "Other Events",
+      "events": [
+        {
+          "name": "Texas Sprint Racing Series",
+          "date": "May 29-31",
+          "venue": "Amarillo Kart Complex",
+          "location": "Amarillo, TX"
+        },
+        {
+          "name": "SKUSA SummerNationals",
+          "date": "July 24-27",
+          "venue": "New Castle Motorsports Park",
+          "location": "New Castle, IN"
+        },
+        {
+          "name": "IAME Grand Nationals",
+          "date": "Date TBA",
+          "venue": "Trackhouse Motorplex",
+          "location": "Mooresville, NC"
+        },
+        {
+          "name": "SKUSA SuperNationals",
+          "date": "November 12-16",
+          "venue": "Las Vegas Motor Speedway",
+          "location": "Las Vegas, NV"
+        }
+      ]
+    }
+  ]
+}
